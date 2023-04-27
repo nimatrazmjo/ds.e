@@ -1,0 +1,8 @@
+{
+  "name": "ds.e",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:nimatrazmjo/ds.e.git",
+  "author": "Nimatullah Razmjo <nimatullah.razmjo@gmail.com>",
+  "license": "MIT"
+}
